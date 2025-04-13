@@ -92,7 +92,21 @@
   <a href="https://github.com/ngochidung2111/CNPM">Main Source Code</a>
 </p>
 
-🛠 MORE (Update later...)
+**5.** 🐼 **Project: Zoo Management System - ZMS**
+- `Zoo Management System (ZMS)` is a comprehensive application designed to streamline the digital transformation of modern zoos. It provides robust tools for managing animal species, individual animals, staff (including office workers, caretakers, and veterinarians), and diverse partners such as food suppliers, research institutions, and other zoos. The system supports tracking of health records, vaccination history, treatment logs, nutrition plans, enclosures, feeding schedules, specimen records, and animal import/export logistics. With advanced relational data handling, it ensures precise monitoring of predator-prey relationships, breeding records, and parentage, catering to both operational efficiency and conservation goals.
+- 🛠 Tech Stack: Frontend: HTML,CSS,JS (ReactJS); Backend: Nodejs (NestJS); Database: MySQL; Development Tools: Postman, Draw.io, Figma, GitHub
+- Features:
+  ZMS offers a wide range of practical functionalities: `Authentication & Authorization`: Secure user access and role-based permissions. `CRUD Operations`: Comprehensive management of zoo data, including animals, health records, staff, partners, enclosures, and more. `Animal Management`: Tracks species, groups, and individuals, including lineage, predator-prey relationships, and enclosure assignments.`Health & Nutrition`: Manages health records, vaccination and treatment histories, and tailored nutrition plans with meal scheduling. `Logistics`: Handles animal and food import/export forms, partner interactions, and specimen tracking.`Staff & Partner Management`: Supports role-specific data for staff (e.g., qualifications, licenses) and partners (e.g., certifications, conservation programs).`Database Flexibility`: Users can set up a local database using the provided Database.sql script.
+ZMS is a powerful, modern solution that enhances zoo operations through integrated technology, ensuring efficient management and support for conservation efforts.
+
+- 📌 GitHub Repo:
+<p align="center">
+  <a href="https://github.com/tuitensonne/Zoo-backend">Zoo Management Backend</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tuitensonne/Zoo-frontend">Zoo Management Frontend</a>
+</p>
 
 
 ## 📫 Connect with Me  
